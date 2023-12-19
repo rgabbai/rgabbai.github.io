@@ -1,0 +1,15 @@
+---
+layout: default
+title: Staff
+---
+<h1>Staff</h1>
+
+<ul>
+  {% for cont in site.contributers %}
+    <li>
+      <h2>{{ cont.name }}</h2>
+      <h3>{{ cont.position }}</h3>
+      <p>{{ cont.content | markdownify }}</p>
+    </li>
+  {% endfor %}
+</ul>
