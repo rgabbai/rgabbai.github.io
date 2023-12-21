@@ -1,3 +1,83 @@
+/* Style for the current navigation link */
 .current {
     color: green;
-}
+  }
+  
+  /* Flexbox layout for the navigation bar */
+  nav {
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+  }
+  
+  /* Style for navigation links */
+  nav a {
+    margin: 0 10px; /* Adds spacing on the left and right of each link */
+    text-decoration: none; /* Optional: Removes underline from links */
+    /* Additional link styles can go here, such as color or font */
+  }
+  
+  /* Additional style for the current navigation link */
+  nav a.current {
+    font-weight: bold; /* Optional: Highlights the current page link */
+    /* Additional current link indicator styles can go here */
+  }
+  
+  body {
+    background: url('/assets/images/background1.jpeg') no-repeat center center fixed;
+    background-size: cover; /* Cover ensures the background covers the entire element */
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+  }
+  
+  .custom-class {
+    display: block;
+    margin: 10 auto; /* Center the image */
+    max-width: 100%; /* Make it responsive */
+    height: auto; /* Maintain aspect ratio */
+  }
+  
+  .large-font {
+    margin: 0 auto; /* Center the image */
+    font-size: 20px; /* You can adjust the size as needed */
+  }
+  .right-image {
+    float: right; /* Floats the image to the right */
+    margin-left: 20px; /* Adds some space between the text and the image */
+    width: 500px; /* Or your desired width */
+    height: auto; /* Maintains aspect ratio */
+  }
+  .left-image {
+    display: block;
+    //float: left; /* Floats the image to the right */
+    margin-left: 20px; /* Adds some space between the text and the image */
+    width: 1500px; /* Or your desired width */
+    height: auto; /* Maintains aspect ratio */
+  }
+  .left-image-small {
+    display: block;
+    //float: left; /* Floats the image to the right */
+    margin-left: 20px; /* Adds some space between the text and the image */
+    width: 350px; /* Or your desired width */
+    height: auto; /* Maintains aspect ratio */
+  }
+  .right-thumbnail {
+    float: right; /* Floats the image to the left */
+    margin-right: 100px; /* Adds space between the image and any adjacent text */
+    width: 250px; /* Adjust the width as needed */
+    height: auto; /* Maintains the aspect ratio */
+  }
+
+  .left-thumbnail {
+    display: block;
+    //float: left; /* Floats the image to the left */
+    margin-right: 100px; /* Adds space between the image and any adjacent text */
+    width: 250px; /* Adjust the width as needed */
+    height: auto; /* Maintains the aspect ratio */
+  }
+
+  .larger-font {
+    font-size: 18px; /* Or any size you want */
+  }
