@@ -52,16 +52,18 @@ Efficient Weed Removal: The Auto-Mower Robot is engineered to navigate through f
 </p>
 
 <p class="larger-font">
+Click on the thumbnail to see the robot gallery
+</p>
+<a href="https://photos.app.goo.gl/6LumGxPBMBDxDX7J6">
+  <img src="assets/images/robot_thumb2.png" alt="Hive Video" class="left-image-small">
+</a>
+
+<p class="larger-font">
 Click on the thumbnail to see the robot mower example
 </p>
-<!--
-<a href="https://photos.google.com/photo/AF1QipOn99deu41mugZuDzVDHwFw3VPJwjbmV5b7EJoR">
-  <img src="assets/images/robot_mower.png" alt="Hive Video">
-</a>
--->
 <a href="assets/images/robot_cut1.mp4">
   <img src="assets/images/robot_mower.png" alt="Hive Video">
 </a>
 
 
-![Robot in field]({{ 'assets/images/robot_in_field1.jpeg' | relative_url }}){: .custom-class}
+<!--![Robot in field]({{ 'assets/images/robot_in_field1.jpeg' | relative_url }}){: .custom-class}-->
