@@ -23,7 +23,7 @@ This app brings the critical data directly to the user, enabling efficient and e
 
 ![Robot in field]({{ 'assets/images/bees2.jpg' | relative_url }}){: .left-image} 
 <!--![Robot in field]({{ 'assets/images/bees2.jpg' | relative_url }}) -->
-
+<!--
 <p class="larger-font">
 Click on the thumbnail to see a hive video - you can notice the solar panel and Lora antenna. the hive sits on the weight platform
 </p>
@@ -31,6 +31,7 @@ Click on the thumbnail to see a hive video - you can notice the solar panel and 
 <a href="https://photos.google.com/search/bees/photo/AF1QipP_bLtmvhS0c7JaLZ_KHJwZK-aisYM5Tbs5tb4e">
   <img src="assets/images/bees.png" alt="Hive Video">
 </a>
+-->
 
 <p class="larger-font">
 App view:
@@ -53,12 +54,14 @@ Efficient Weed Removal: The Auto-Mower Robot is engineered to navigate through f
 <p class="larger-font">
 Click on the thumbnail to see the robot mower example
 </p>
-
+<!--
 <a href="https://photos.google.com/photo/AF1QipOn99deu41mugZuDzVDHwFw3VPJwjbmV5b7EJoR">
   <img src="assets/images/robot_mower.png" alt="Hive Video">
 </a>
-
-
+-->
+<a href="assets/images/robot_cut1.mp4">
+  <img src="assets/images/robot_mower.png" alt="Hive Video">
+</a>
 
 
 ![Robot in field]({{ 'assets/images/robot_in_field1.jpeg' | relative_url }}){: .custom-class}
