@@ -22,21 +22,14 @@ This app brings the critical data directly to the user, enabling efficient and e
 </p>
 
 ![Robot in field]({{ 'assets/images/bees2.jpg' | relative_url }}){: .left-image} 
-<!--![Robot in field]({{ 'assets/images/bees2.jpg' | relative_url }}) -->
-<!--
-<p class="larger-font">
-Click on the thumbnail to see a hive video - you can notice the solar panel and Lora antenna. the hive sits on the weight platform
-</p>
 
-<a href="https://photos.google.com/search/bees/photo/AF1QipP_bLtmvhS0c7JaLZ_KHJwZK-aisYM5Tbs5tb4e">
-  <img src="assets/images/bees.png" alt="Hive Video">
-</a>
--->
 
 <p class="larger-font">
 App view:
 </p>
-![Robot in field]({{ 'assets/images/app.jpeg' | relative_url }}){: .left-image-small} 
+
+</p>
+![Robot in field]({{ 'assets/images/app.jpeg' | relative_url }}){: .left-image-medium} 
 
 
 <p class="larger-font">

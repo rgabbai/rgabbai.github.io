@@ -60,6 +60,13 @@
     display: block;
     //float: left; /* Floats the image to the right */
     margin-left: 20px; /* Adds some space between the text and the image */
+    width: 150px; /* Or your desired width */
+    height: auto; /* Maintains aspect ratio */
+  }
+  .left-image-medium {
+    display: block;
+    //float: left; /* Floats the image to the right */
+    margin-left: 20px; /* Adds some space between the text and the image */
     width: 350px; /* Or your desired width */
     height: auto; /* Maintains aspect ratio */
   }
