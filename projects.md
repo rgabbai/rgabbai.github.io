@@ -2,7 +2,31 @@
 layout: default
 title: About
 ---
-# 1. Bee Hive Monitor
+
+# 1. Auto Mower Robotic - Under development see "Blog" page for updates
+
+<p class="larger-font">
+ This robot is specifically designed to tackle one of the most challenging aspects of field management: weed control.<br>
+Efficient Weed Removal: The Auto-Mower Robot is engineered to navigate through fields with precision, identifying and eliminating weeds efficiently. <br> Its advanced sensors and cutting-edge technology allow it to distinguish between crops and unwanted plants, ensuring thorough weed removal without harming your valuable crops.<br>
+</p>
+
+<p class="larger-font">
+Click on the thumbnail to see the robot gallery
+</p>
+<a href="https://photos.app.goo.gl/6LumGxPBMBDxDX7J6">
+  <img src="assets/images/robot_thumb2.png" alt="Robot gallery" class="left-image-small">
+</a>
+
+<p class="larger-font">
+Click on the thumbnail to see the robot mower example
+</p>
+<a href="assets/images/robot_cut1.mp4">
+  <img src="assets/images/robot_mower.png" alt="Hive Video">
+</a>
+
+
+
+# 2. Bee Hive Monitor
 <p class="larger-font">
 This project focuses on the precise monitoring of hive weight and the temperature both inside and outside the hive.<br> 
 
@@ -36,27 +60,6 @@ App view:
 <br><br>
 </p>
 
-
-# 2. Auto Mower Robotic - Under development see "Blog" page for updates
-
-<p class="larger-font">
- This robot is specifically designed to tackle one of the most challenging aspects of field management: weed control.<br>
-Efficient Weed Removal: The Auto-Mower Robot is engineered to navigate through fields with precision, identifying and eliminating weeds efficiently. <br> Its advanced sensors and cutting-edge technology allow it to distinguish between crops and unwanted plants, ensuring thorough weed removal without harming your valuable crops.<br>
-</p>
-
-<p class="larger-font">
-Click on the thumbnail to see the robot gallery
-</p>
-<a href="https://photos.app.goo.gl/6LumGxPBMBDxDX7J6">
-  <img src="assets/images/robot_thumb2.png" alt="Hive Video" class="left-image-small">
-</a>
-
-<p class="larger-font">
-Click on the thumbnail to see the robot mower example
-</p>
-<a href="assets/images/robot_cut1.mp4">
-  <img src="assets/images/robot_mower.png" alt="Hive Video">
-</a>
 
 
 <!--![Robot in field]({{ 'assets/images/robot_in_field1.jpeg' | relative_url }}){: .custom-class}-->

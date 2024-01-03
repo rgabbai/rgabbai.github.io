@@ -15,6 +15,7 @@
   nav a {
     margin: 0 10px; /* Adds spacing on the left and right of each link */
     text-decoration: none; /* Optional: Removes underline from links */
+    font-size: 28px; /* Adjust the font size as needed */
     /* Additional link styles can go here, such as color or font */
   }
   
@@ -25,7 +26,7 @@
   }
   
   body {
-    background: url('/assets/images/background1.jpeg') no-repeat center center fixed;
+    background: url('/assets/images/background2.jpeg') no-repeat center center fixed;
     background-size: cover; /* Cover ensures the background covers the entire element */
     -webkit-background-size: cover;
     -moz-background-size: cover;
